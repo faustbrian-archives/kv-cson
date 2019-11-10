@@ -66,7 +66,7 @@
 	},
 	"dependencies": {
 		"@keeveestore/file": "^0.1.2",
-		"cson": "^5.1.0",
+		"cson": "^6.0.0",
 		"fs-extra": "^8.1.0"
 	},
 	"devDependencies": {
